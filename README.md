@@ -81,10 +81,10 @@ Resources
 -  Language File Translations https://github.com/bcit-ci/codeigniter3-translations
 -  Community Forums http://forum.codeigniter.com/
 -  Community Wiki https://github.com/bcit-ci/CodeIgniter/wiki
--  Community Slack Channel <https://codeigniterchat.slack.com
+-  Community Slack Channel https://codeigniterchat.slack.com
 
 Report security issues to our Security Panel mailto:security@codeigniter.com
-or via our page on HackerOne <https://hackerone.com/codeigniter, thank you.
+or via our page on HackerOne https://hackerone.com/codeigniter, thank you.
 
 ***************
 Acknowledgement
