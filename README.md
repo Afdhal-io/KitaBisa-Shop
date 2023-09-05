@@ -1,6 +1,6 @@
 # kitabisa shop
 
-##Fitur
+Fitur
 
 - Login
 - Register
@@ -11,19 +11,10 @@
 - Formulir kontak
   dan lain-lain.
 
-##Hak akses
+Hak akses
 
 - Admin
 - Customer
-
-User demo:
-
-- Admin
-  username: mulyojr
-  password: qwerty
-- Customer:
-  username: agungtr
-  password: qwerty
 
 
 ###################
